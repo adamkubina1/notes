@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e0e1dff65e319c6e",
+        "id": "1123151b79374c17",
         "type": "tabs",
         "children": [
           {
-            "id": "2b15dcd0608e3377",
+            "id": "4808f175ffe16718",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +137,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b15dcd0608e3377",
-  "lastOpenFiles": []
+  "active": "4808f175ffe16718",
+  "lastOpenFiles": [
+    "Test.md",
+    "How does React work?.md",
+    "VDOM.md",
+    "Untitled.canvas",
+    "Initial rules.md",
+    "DOM.md"
+  ]
 }
