@@ -16,5 +16,3 @@ Active externalism
 Technique for notes from books - read the whole thing and tag areas that look note worthy, then go back through it after finishing it.
 
 #todo  explore canvas
-
-[[Test]]
